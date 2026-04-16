@@ -1,2 +1,3 @@
-#aula1
-#2
+#Aula print
+
+print("seja bem-vindo")
