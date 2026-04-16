@@ -18,3 +18,4 @@ print(copia)
 
 listaA.append("E")
 print(len(listão))
+print("oi")
